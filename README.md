@@ -1,5 +1,4 @@
-# What's in this project?
-
-:smile: :rocket: :octocat:
+# What's in this project? :rocket:
+:smile:  :octocat:
 
 
